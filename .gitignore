@@ -1,0 +1,11 @@
+# Pycharm files
+.idea
+
+# Visual Studio Code file
+.vscode
+
+# Pydev eclipse files
+.project
+.classpath
+bin
+.settings
